@@ -11,6 +11,7 @@ Matplotlib, but for cats.
 
 
 * Free software: MIT license
+* Documentation: https://catplotlib.readthedocs.io. Just kidding. There are no docs.
 
 
 Features
