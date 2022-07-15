@@ -39,6 +39,6 @@ setup(
     name="catplotlib",
     packages=find_packages(include=["catplotlib", "catplotlib.*"]),
     url="https://github.com/achabotl/catplotlib",
-    version="1.0.1",
+    version="1.0.2",
     zip_safe=False,
 )
