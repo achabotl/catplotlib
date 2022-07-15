@@ -17,10 +17,15 @@ Matplotlib, but for cats.
 Features
 --------
 
-* Just one.::
+* Just one::
 
         import catplotlib.catplot as clt
         clt.plot()
+
+* Actually, there's a second one::
+
+        import catplotlib.catplot as clt
+        clt.plot(says='matplotlib + cats = catplotlib')
 
 
 Making a Release
