@@ -27,6 +27,10 @@ Features
         import catplotlib.catplot as clt
         clt.plot(says='matplotlib + cats = catplotlib')
 
+* And, a third::
+
+        import catplotlib.catplot as clt
+        clt.catterplot()
 
 Making a Release
 ----------------

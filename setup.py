@@ -12,6 +12,7 @@ with open("HISTORY.rst") as history_file:
 
 requirements = [
     "matplotlib",
+    "mplcairo",
     "requests",
 ]
 
